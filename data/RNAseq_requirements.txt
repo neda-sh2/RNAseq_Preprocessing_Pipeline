@@ -1,0 +1,5 @@
+pandas>=1.5.0
+matplotlib>=3.6.0
+jupyter>=1.0.0
+# Command-line tools installed via apt within the notebook:
+# bwa, samtools, bcftools, hisat2, subread (featureCounts), fastqc, cutadapt
